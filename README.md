@@ -1,6 +1,6 @@
 # Isolation-Game
 
-#ABSTRACT
+ABSTRACT
 
  GAME AI WITH MINIMAX AND ALPHA-BETA TECHNIQUES
  Thedevelopment of game-playing agents is a well-established and important area within
@@ -15,7 +15,7 @@ maxalgorithm with Alpha-Beta pruning for the Isolation Game, a two-player strate
 sion of possible moves and blackout options, demonstrating the critical role of Alpha-Beta
  pruning.
 
- #ÖZET
+ ÖZET
  
  MINIMAXVEALFA-BETATEKNİKLERİYLEOYUN
  YAPAYZEKASI
