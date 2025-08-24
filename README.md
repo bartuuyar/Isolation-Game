@@ -17,9 +17,9 @@ sion of possible moves and blackout options, demonstrating the critical role of 
 
  ÖZET
  
- MINIMAXVEALFA-BETATEKNİKLERİYLEOYUN
- YAPAYZEKASI
- Oyunoynayanajanlarıngeliştirilmesi, hem bilgisayar bilimi hem de oyun tasarımı içinde
+ MINIMAX VE ALFA-BETA TEKNİKLERİYLE OYUN
+ YAPAY ZEKASI
+ Oyun oynaya najanların geliştirilmesi, hem bilgisayar bilimi hem de oyun tasarımı içinde
  köklü ve önemli bir alandır. Eğlence sektörünün ötesinde, oyun yapay zekası, oyunlarla bir
 likte eğitim bağlamlarında önemli uygulamalar bulmuş ve takviyeli öğrenme gibi alanlardaki
  ilerlemeler, otonom araçlar gibi gerçek dünya uygulamaları üzerinde de derin etkiler yarat
